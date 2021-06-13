@@ -77,7 +77,7 @@ Are the features learned from generated images different from the features learn
 It turns out that they don't look exactly similar but they capture sufficient structural info (edges etc.) just like the real image features. 
 
 ### What makes a good generated dataset?
-The paper lists out some image level and dataset level properties which make a good generated datasets i.e., which give good downstream task performance. Feel free to check out the original paper for the experiments behind these conclusions:
+The paper lists out some image level and dataset level properties which make good generated datasets i.e., which give good downstream task performance. Feel free to check out the original paper for the experiments behind these conclusions:
 
 **At the image level:**
  1. It helps to have a color distribution close to the real image datasets.
