@@ -106,3 +106,5 @@ The paper uses 20k training examples at max, to train the linear classifiers on 
 4. [Statistics of Natural Image Categories (mit.edu)](http://web.mit.edu/torralba/www/ne3302.pdf)
 
 This post is just a summary of the paper. I would strongly encourage you to check out their website and read the original paper for details and more interesting results. *Discuss this post on Twitter*.
+
+*Written on 13 June, 2021.*
