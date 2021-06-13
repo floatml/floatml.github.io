@@ -26,7 +26,7 @@ At a very high level, sampling from generative models can be thought of as sampl
 
 ![images]({{ site.baseurl }}/images/llnoise_eqn.png)
 
-For generative models such as trained GANs, the parameters $\theta$ are fit to real data. In our case, the parameters are sampled from simple mathematical prior distributions. The following is the list of the generative models used in this paper:
+For generative models such as trained GANs, the parameters $\theta$ are fit to real data. In this paper, the parameters are instead sampled from simple mathematical prior distributions. The following is the list of the generative models used in this paper:
 
  1. Procedural Image Models: FractalDB, CLEVR, DMLab, MineRL
  2. Dead Leaves: Squares, Oriented, Shapes, Textured
@@ -104,6 +104,8 @@ The paper uses 20k training examples at max, to train the linear classifiers on 
 3. [The Wavelet Transform](https://towardsdatascience.com/the-wavelet-transform-e9cfa85d7b34)
 4. [Statistics of Natural Image Categories (mit.edu)](http://web.mit.edu/torralba/www/ne3302.pdf)
 
-This post is just a summary of the paper. I would strongly encourage you to check out their website and read the original paper for details and more interesting results. *[Discuss this post on Twitter](https://twitter.com/floatml/status/1403996888278265864)*.
+This post is just a summary of the paper. I would strongly encourage you to check out their [website](https://mbaradad.github.io/learning_with_noise/) and read the [original paper](https://arxiv.org/abs/2106.05963) for details and more interesting results. 
+
+*[Discuss this post on Twitter](https://twitter.com/floatml/status/1403996888278265864)*.
 
 *Written on 13 June, 2021.*
