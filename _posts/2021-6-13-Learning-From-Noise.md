@@ -3,7 +3,6 @@ layout: post
 title: Paper Discussion - Learning to See by Looking at Noise
 date: 2021-06-13 09:00
 ---
-## Learning to See by Looking at Noise
 
 In this post, we're looking at the recent paper *[Learning to See by Looking at Noise](https://mbaradad.github.io/learning_with_noise/)* by *Manel Baradad, Jonas Wulff, Tongzhou Wang, Phillip Isola* and *Antonio Torralba*. This paper was uploaded to [arXiv](https://arxiv.org/abs/2106.05963) on Jun 10, 2021.
 
