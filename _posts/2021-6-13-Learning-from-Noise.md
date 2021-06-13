@@ -101,7 +101,7 @@ The paper uses 20k training examples at max, to train the linear classifiers on 
 ### Further Readings
 1. [Deep Image Prior](https://dmitryulyanov.github.io/deep_image_prior) - Using untrained deep networks for inverse image tasks.
 2. [ Pre-training without Natural Images](https://arxiv.org/abs/2101.08515) - Using fractals to automatically generate images for pretraining vision models.
-3. [The Wavelet Transform. An Introduction and Example | by Shawhin Talebi | Towards Data Science](https://towardsdatascience.com/the-wavelet-transform-e9cfa85d7b34)
+3. [The Wavelet Transform](https://towardsdatascience.com/the-wavelet-transform-e9cfa85d7b34)
 4. [Statistics of Natural Image Categories (mit.edu)](http://web.mit.edu/torralba/www/ne3302.pdf)
 
 This post is just a summary of the paper. I would strongly encourage you to check out their website and read the original paper for details and more interesting results. *Discuss this post on Twitter*.
