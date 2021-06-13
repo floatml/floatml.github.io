@@ -24,7 +24,7 @@ Features of good training data for vision models: *naturalism* and *diversity*. 
 ### Generative Image Models (Without Training!)
 At a very high level, sampling from generative models can be thought of as sampling from the following joint distribution:  
 
-$$ p(x, \theta) = p(x|\theta) p(\theta) $$ 
+![images]({{ site.baseurl }}/images/llnoise_eqn.png)
 
 For generative models such as trained GANs, the parameters $\theta$ are fit to real data. In our case, the parameters are sampled from simple mathematical prior distributions. The following is the list of the generative models used in this paper:
 
@@ -40,7 +40,7 @@ The below figure shows the examples of generated images from each method.
 
 The details of the methods are omitted for the sake of brevity, however, I'll list out the key assumptions used in sampling noise images using some of the above methods:
 
- 1. The magnitude of the Fourier Transform of natural images generally follows a power law $1/|f|^\alpha$.
+ 1. The magnitude of the Fourier Transform of natural images generally follows a [power law](https://en.wikipedia.org/wiki/Power_law).
  2. Wavelet coefficients of natural images follow a non-gaussian distribution. 
  3. Natural images have a high degree of sparsity.
 
