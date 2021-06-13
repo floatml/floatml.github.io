@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper Discussion: Learning to See by Looking at Noise
-date: 2021-06-13 11:30 +0530
+date: 2021-06-13 11:30
 ---
 ## Learning to See by Looking at Noise
 
