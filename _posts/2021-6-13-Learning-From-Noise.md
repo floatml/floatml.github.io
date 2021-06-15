@@ -61,7 +61,7 @@ VTAB (Visual Task Adaptation Benchmark) consists of 19 vision tasks divided into
 The above figure shows the average performance of each method on all the tasks in each of the three categories. The black bars are baselines: the ones on the left being untrained methods, and the ones on the right being models trained on real datasets - Places, ImageNet-100, ImageNet-1k. Here are the main observations:
 
 **Natural Images (left most plot)**
- 1. Obviously, the images trained on real datasets (black bars at the left) attain the highest performance.
+ 1. Obviously, the images trained on real datasets (black bars at the right) attain the highest performance.
  2. The performance of the image generation methods seems correlated with the naturalism and diversity of the generated images. (Ex: StyleGAN generated images have higher accuracy)
 
 **Specialized (middle plot) and Structured images (right most plot)**
